@@ -1,0 +1,83 @@
+Already up to date.
+[master 0ba6e98] Update repo
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rewrite logs.tar.gz (98%)
+git push was successful!
+Already up to date.
+[master 2ea4e2b] Update repo
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+Copying Log files
+0
+logs
+logs.tar.gz
+logs/
+logs/messages-20210504.gz
+logs/secure-20210504.gz
+logs/yum.log-20210504.gz
+logs/access_log-20210504.gz
+logs/error_log-20210504.gz
+Updating 83f5839..99b577e
+Fast-forward
+ logs.tar.gz | Bin 95088 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 logs.tar.gz
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Copying Log files
+bootlog
+chrony
+custom
+httpd
+logs.tar.gz
+php-fpm
+psacct
+syslog
+yum
+/home/ec2-user/logs/
+/home/ec2-user/logs/messages-20210504.gz
+/home/ec2-user/logs/secure-20210504.gz
+/home/ec2-user/logs/yum.log-20210504.gz
+/home/ec2-user/logs/access_log-20210504.gz
+/home/ec2-user/logs/error_log-20210504.gz
+WHat is inside custom file
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+git push was successful!
+Server is serving the content!
+HTTP/1.1 200 OK
+Date: Wed, 05 May 2021 09:57:42 GMT
+Server: Apache/2.4.46 () mod_wsgi/3.4 Python/2.7.18
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sat, 01 May 2021 17:41:39 GMT
+ETag: "47-5c1483da72657"
+Accept-Ranges: bytes
+Content-Length: 71
+Content-Type: text/html; charset=UTF-8
+
+process is restarting
+process is restarting
+Copying Log files
+custom.sh
+github
+log_activities
+log_mechanism.sh
+logs.sh
+nethmi.txt
+run_custom.sh
+script1.sh
+script_3.sh
+script_4.sh
+script_5.sh
+script.sh
+try1.sh
+try.sh
+Already up to date.
+[master 40e7702] Update repo
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 logs.tar.gz
