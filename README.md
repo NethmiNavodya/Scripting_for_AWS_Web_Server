@@ -26,3 +26,6 @@ log_script.sh
 -------Logging mechanism---------
 log_activities 
 log_mechanism.sh
+
+-------AWS web server key file----
+web-server.pem
